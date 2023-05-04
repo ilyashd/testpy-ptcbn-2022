@@ -1,2 +1,3 @@
-# testpy-ptcbn-2022
-Test CBN
+Instalasi dan Konfigurasi
+
+Yang harus di install
